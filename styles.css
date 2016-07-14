@@ -1,0 +1,397 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 2000px;
+	 height: 1159px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 2000px;
+	 height: 1159px;
+	 z-index:1;
+} 
+
+ #Layer9copy2 
+{ 
+	 left: -20px; 
+	 top: -24px; 
+	 position: absolute; 
+	 width: 2047px;
+	 height: 1214px;
+	 z-index:2;
+} 
+
+ #BRANCO 
+{ 
+	 left: 482px; 
+	 top: -53px; 
+	 position: absolute; 
+	 width: 1023px;
+	 height: 1163px;
+	 z-index:3;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 785px; 
+	 top: 901px; 
+	 position: absolute; 
+	 width: 346px;
+	 height: 78px;
+	 z-index:4;
+} 
+
+ #LAUTMUSIKGMAILCOM 
+{ 
+	 left: 573px; 
+	 top: 1036px; 
+	 position: absolute; 
+	 width: 354px;
+	 height: 24px;
+	 z-index:5;
+} 
+
+ #Layer19 
+{ 
+	 left: 725px; 
+	 top: 798px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 118px;
+	 z-index:6;
+} 
+
+ #BANDCAMP 
+{ 
+	 left: 721px; 
+	 top: 899px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 11px;
+	 z-index:7;
+} 
+
+ #Layer2 
+{ 
+	 left: 1145px; 
+	 top: 819px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 58px;
+	 z-index:8;
+} 
+
+ #GOOGLEPLAY 
+{ 
+	 left: 1080px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 11px;
+	 z-index:9;
+} 
+
+ #YOUTUBE 
+{ 
+	 left: 917px; 
+	 top: 899px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 11px;
+	 z-index:10;
+} 
+
+ #Layer18 
+{ 
+	 left: 945px; 
+	 top: 810px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 65px;
+	 z-index:11;
+} 
+
+ #SOUNDCLOUND 
+{ 
+	 left: 1211px; 
+	 top: 721px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 10px;
+	 z-index:12;
+} 
+
+ #Layer3 
+{ 
+	 left: 1261px; 
+	 top: 651px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 39px;
+	 z-index:13;
+} 
+
+ #Layer0copy 
+{ 
+	 left: 1009px; 
+	 top: 622px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 88px;
+	 z-index:14;
+} 
+
+ #DEEZER 
+{ 
+	 left: 1050px; 
+	 top: 721px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 10px;
+	 z-index:15;
+} 
+
+ #SPOTIFY 
+{ 
+	 left: 818px; 
+	 top: 721px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 11px;
+	 z-index:16;
+} 
+
+ #Layer17 
+{ 
+	 left: 846px; 
+	 top: 640px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 51px;
+	 z-index:17;
+} 
+
+ #Layer16 
+{ 
+	 left: 633px; 
+	 top: 639px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 53px;
+	 z-index:18;
+} 
+
+ #ITUNES 
+{ 
+	 left: 614px; 
+	 top: 720px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 11px;
+	 z-index:19;
+} 
+
+ #Layer6 
+{ 
+	 left: 1247px; 
+	 top: 1034px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 28px;
+	 z-index:20;
+} 
+
+ #Layer7 
+{ 
+	 left: 1312px; 
+	 top: 1031px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 35px;
+	 z-index:21;
+} 
+
+ #Layer15 
+{ 
+	 left: 1180px; 
+	 top: 1031px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 33px;
+	 z-index:22;
+} 
+
+ #Layer8 
+{ 
+	 left: 1381px; 
+	 top: 1032px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 33px;
+	 z-index:23;
+} 
+
+ #TUGBOAT 
+{ 
+	 left: 899px; 
+	 top: 469px; 
+	 position: absolute; 
+	 width: 167px;
+	 height: 28px;
+	 z-index:24;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 568px; 
+	 top: 331px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 217px;
+	 z-index:25;
+} 
+
+ #Layer0copy_0 
+{ 
+	 left: 552px; 
+	 top: 308px; 
+	 position: absolute; 
+	 width: 452px;
+	 height: 243px;
+	 z-index:26;
+} 
+
+ #Rectangle3copy 
+{ 
+	 left: 851px; 
+	 top: 331px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 217px;
+	 z-index:27;
+} 
+
+ #Layer21 
+{ 
+	 left: 830px; 
+	 top: 299px; 
+	 position: absolute; 
+	 width: 514px;
+	 height: 255px;
+	 z-index:28;
+} 
+
+ #Rectangle3copy2 
+{ 
+	 left: 1129px; 
+	 top: 331px; 
+	 position: absolute; 
+	 width: 287px;
+	 height: 217px;
+	 z-index:29;
+} 
+
+ #Layer20 
+{ 
+	 left: 1071px; 
+	 top: 321px; 
+	 position: absolute; 
+	 width: 390px;
+	 height: 235px;
+	 z-index:30;
+} 
+
+ #MAI 
+{ 
+	 left: 683px; 
+	 top: 432px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 26px;
+	 z-index:31;
+} 
+
+ #ThePurplesandTheGree 
+{ 
+	 left: 1205px; 
+	 top: 378px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 129px;
+	 z-index:32;
+} 
+
+ #TUGBOAT_0 
+{ 
+	 left: 919px; 
+	 top: 427px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 31px;
+	 z-index:33;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 1374px; 
+	 top: 449px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 18px;
+	 z-index:34;
+} 
+
+ #VectorSmartObjectcop 
+{ 
+	 left: 585px; 
+	 top: 445px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 18px;
+	 z-index:35;
+} 
+
+ #FAIXA 
+{ 
+	 left: 569px; 
+	 top: 978px; 
+	 position: absolute; 
+	 width: 847px;
+	 height: 7px;
+	 z-index:36;
+} 
+
+ #LOGO 
+{ 
+	 left: 806px; 
+	 top: 72px; 
+	 position: absolute; 
+	 width: 357px;
+	 height: 120px;
+	 z-index:37;
+} 
+
+ #WATCHLISTEN 
+{ 
+	 left: 855px; 
+	 top: 277px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 27px;
+	 z-index:38;
+} 
